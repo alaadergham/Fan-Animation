@@ -1,7 +1,7 @@
 # Fan-Animation
 iOS animated component using swift CAShapelayer
 
-![Test Image 1](https://github.com/alaadergham/MyRepo/blob/master/Fan%20Animation.gif)
+![Test Image 1](https://github.com/alaadergham/MyRepo/blob/master/FanAnimation.gif)
 
 ## Getting Started
 
